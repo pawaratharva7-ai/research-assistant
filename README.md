@@ -187,9 +187,3 @@ text
 
 ---
 
-## 🚀 How to Add This to Your Research Assistant Repository
-
-### Step 1: Navigate to the Research Assistant Folder
-
-```bash
-cd C:\Users\pawar\OneDrive\Desktop\research-assistant
